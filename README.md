@@ -9,3 +9,4 @@
 | Day 3 |            |
 | Day 4 | Dart       |
 | Day 5 | Dart       |
+| Day 6 | Dart       |
